@@ -1,4 +1,8 @@
 # Admob
+
+*.css linguist-detectable=false
+*.js linguist-detectable=true
+
 Set up Admob ad on your android app
 
 
